@@ -13,7 +13,7 @@
  - Camille 
  - Leticia
  - Tianyu
- - Eléna
+ - Eléna 🦄
 
 
 #### License
