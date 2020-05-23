@@ -5,7 +5,7 @@
 
 
 
-![alt text](https://github.com/marianereynier/Trust-Drive-App/github.png)
+![alt text](https://github.com/marianereynier/Trust-Drive-App/github.jpg)
 
 
 #### Authors
@@ -14,8 +14,6 @@
  - Leticia
  - Tianyu
  - Eléna
- 
-#### Download  
 
 
 #### License
