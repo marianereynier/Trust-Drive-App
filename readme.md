@@ -5,7 +5,7 @@
 
 
 
-![alt text](https://github.com/marianereynier/Trust-Drive-App/github.jpg)
+![alt text](https://raw.githubusercontent.com/marianereynier/Trust-Drive-App/master/github.jpg)
 
 
 #### Authors
